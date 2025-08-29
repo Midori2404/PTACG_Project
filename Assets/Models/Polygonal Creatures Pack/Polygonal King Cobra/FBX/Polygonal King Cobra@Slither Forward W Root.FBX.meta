@@ -1,0 +1,953 @@
+fileFormatVersion: 2
+guid: 6fcaf6bf9ec55a54fbd7e8d4bddb106a
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Rig
+  - first:
+      1: 100004
+    second: RigFeelerL01
+  - first:
+      1: 100006
+    second: RigFeelerL01Gizmo
+  - first:
+      1: 100008
+    second: RigFeelerL02
+  - first:
+      1: 100010
+    second: RigFeelerL02Gizmo
+  - first:
+      1: 100012
+    second: RigFeelerL03
+  - first:
+      1: 100014
+    second: RigFeelerL03Gizmo
+  - first:
+      1: 100016
+    second: RigFeelerR01
+  - first:
+      1: 100018
+    second: RigFeelerR01Gizmo
+  - first:
+      1: 100020
+    second: RigFeelerR02
+  - first:
+      1: 100022
+    second: RigFeelerR02Gizmo
+  - first:
+      1: 100024
+    second: RigFeelerR03
+  - first:
+      1: 100026
+    second: RigFeelerR03Gizmo
+  - first:
+      1: 100028
+    second: RigHead
+  - first:
+      1: 100030
+    second: RigHeadGizmo
+  - first:
+      1: 100032
+    second: RigJaw
+  - first:
+      1: 100034
+    second: RigJawGizmo
+  - first:
+      1: 100036
+    second: RigLArm1
+  - first:
+      1: 100038
+    second: RigLArm1Gizmo
+  - first:
+      1: 100040
+    second: RigLArm2
+  - first:
+      1: 100042
+    second: RigLArm2Gizmo
+  - first:
+      1: 100044
+    second: RigNeck1
+  - first:
+      1: 100046
+    second: RigNeck2
+  - first:
+      1: 100048
+    second: RigNeck3
+  - first:
+      1: 100050
+    second: RigNeck4
+  - first:
+      1: 100052
+    second: RigNeck5
+  - first:
+      1: 100054
+    second: RigPelvis
+  - first:
+      1: 100056
+    second: RigPelvisGizmo
+  - first:
+      1: 100058
+    second: RigRArm1
+  - first:
+      1: 100060
+    second: RigRArm1Gizmo
+  - first:
+      1: 100062
+    second: RigRArm2
+  - first:
+      1: 100064
+    second: RigRArm2Gizmo
+  - first:
+      1: 100066
+    second: RigRibcage
+  - first:
+      1: 100068
+    second: RigRibcageGizmo
+  - first:
+      1: 100070
+    second: RigSpine1
+  - first:
+      1: 100072
+    second: RigSpine2
+  - first:
+      1: 100074
+    second: RigSpine3
+  - first:
+      1: 100076
+    second: RigSpine4
+  - first:
+      1: 100078
+    second: RigSpine5
+  - first:
+      1: 100080
+    second: RigSpine6
+  - first:
+      1: 100082
+    second: RigSpine7
+  - first:
+      1: 100084
+    second: RigTail1
+  - first:
+      1: 100086
+    second: RigTail10
+  - first:
+      1: 100088
+    second: RigTail10Gizmo
+  - first:
+      1: 100090
+    second: RigTail11
+  - first:
+      1: 100092
+    second: RigTail11Gizmo
+  - first:
+      1: 100094
+    second: RigTail1Gizmo
+  - first:
+      1: 100096
+    second: RigTail2
+  - first:
+      1: 100098
+    second: RigTail2Gizmo
+  - first:
+      1: 100100
+    second: RigTail3
+  - first:
+      1: 100102
+    second: RigTail3Gizmo
+  - first:
+      1: 100104
+    second: RigTail4
+  - first:
+      1: 100106
+    second: RigTail4Gizmo
+  - first:
+      1: 100108
+    second: RigTail5
+  - first:
+      1: 100110
+    second: RigTail5Gizmo
+  - first:
+      1: 100112
+    second: RigTail6
+  - first:
+      1: 100114
+    second: RigTail6Gizmo
+  - first:
+      1: 100116
+    second: RigTail7
+  - first:
+      1: 100118
+    second: RigTail7Gizmo
+  - first:
+      1: 100120
+    second: RigTail8
+  - first:
+      1: 100122
+    second: RigTail8Gizmo
+  - first:
+      1: 100124
+    second: RigTail9
+  - first:
+      1: 100126
+    second: RigTail9Gizmo
+  - first:
+      1: 100128
+    second: RigTongue01
+  - first:
+      1: 100130
+    second: RigTongue01Gizmo
+  - first:
+      1: 100132
+    second: RigTongue02
+  - first:
+      1: 100134
+    second: RigTongue02Gizmo
+  - first:
+      1: 100136
+    second: RigTongue03
+  - first:
+      1: 100138
+    second: RigTongue03Gizmo
+  - first:
+      1: 100140
+    second: RigTongue04
+  - first:
+      1: 100142
+    second: RigTongue04Gizmo
+  - first:
+      1: 100144
+    second: King Cobra
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Rig
+  - first:
+      4: 400004
+    second: RigFeelerL01
+  - first:
+      4: 400006
+    second: RigFeelerL01Gizmo
+  - first:
+      4: 400008
+    second: RigFeelerL02
+  - first:
+      4: 400010
+    second: RigFeelerL02Gizmo
+  - first:
+      4: 400012
+    second: RigFeelerL03
+  - first:
+      4: 400014
+    second: RigFeelerL03Gizmo
+  - first:
+      4: 400016
+    second: RigFeelerR01
+  - first:
+      4: 400018
+    second: RigFeelerR01Gizmo
+  - first:
+      4: 400020
+    second: RigFeelerR02
+  - first:
+      4: 400022
+    second: RigFeelerR02Gizmo
+  - first:
+      4: 400024
+    second: RigFeelerR03
+  - first:
+      4: 400026
+    second: RigFeelerR03Gizmo
+  - first:
+      4: 400028
+    second: RigHead
+  - first:
+      4: 400030
+    second: RigHeadGizmo
+  - first:
+      4: 400032
+    second: RigJaw
+  - first:
+      4: 400034
+    second: RigJawGizmo
+  - first:
+      4: 400036
+    second: RigLArm1
+  - first:
+      4: 400038
+    second: RigLArm1Gizmo
+  - first:
+      4: 400040
+    second: RigLArm2
+  - first:
+      4: 400042
+    second: RigLArm2Gizmo
+  - first:
+      4: 400044
+    second: RigNeck1
+  - first:
+      4: 400046
+    second: RigNeck2
+  - first:
+      4: 400048
+    second: RigNeck3
+  - first:
+      4: 400050
+    second: RigNeck4
+  - first:
+      4: 400052
+    second: RigNeck5
+  - first:
+      4: 400054
+    second: RigPelvis
+  - first:
+      4: 400056
+    second: RigPelvisGizmo
+  - first:
+      4: 400058
+    second: RigRArm1
+  - first:
+      4: 400060
+    second: RigRArm1Gizmo
+  - first:
+      4: 400062
+    second: RigRArm2
+  - first:
+      4: 400064
+    second: RigRArm2Gizmo
+  - first:
+      4: 400066
+    second: RigRibcage
+  - first:
+      4: 400068
+    second: RigRibcageGizmo
+  - first:
+      4: 400070
+    second: RigSpine1
+  - first:
+      4: 400072
+    second: RigSpine2
+  - first:
+      4: 400074
+    second: RigSpine3
+  - first:
+      4: 400076
+    second: RigSpine4
+  - first:
+      4: 400078
+    second: RigSpine5
+  - first:
+      4: 400080
+    second: RigSpine6
+  - first:
+      4: 400082
+    second: RigSpine7
+  - first:
+      4: 400084
+    second: RigTail1
+  - first:
+      4: 400086
+    second: RigTail10
+  - first:
+      4: 400088
+    second: RigTail10Gizmo
+  - first:
+      4: 400090
+    second: RigTail11
+  - first:
+      4: 400092
+    second: RigTail11Gizmo
+  - first:
+      4: 400094
+    second: RigTail1Gizmo
+  - first:
+      4: 400096
+    second: RigTail2
+  - first:
+      4: 400098
+    second: RigTail2Gizmo
+  - first:
+      4: 400100
+    second: RigTail3
+  - first:
+      4: 400102
+    second: RigTail3Gizmo
+  - first:
+      4: 400104
+    second: RigTail4
+  - first:
+      4: 400106
+    second: RigTail4Gizmo
+  - first:
+      4: 400108
+    second: RigTail5
+  - first:
+      4: 400110
+    second: RigTail5Gizmo
+  - first:
+      4: 400112
+    second: RigTail6
+  - first:
+      4: 400114
+    second: RigTail6Gizmo
+  - first:
+      4: 400116
+    second: RigTail7
+  - first:
+      4: 400118
+    second: RigTail7Gizmo
+  - first:
+      4: 400120
+    second: RigTail8
+  - first:
+      4: 400122
+    second: RigTail8Gizmo
+  - first:
+      4: 400124
+    second: RigTail9
+  - first:
+      4: 400126
+    second: RigTail9Gizmo
+  - first:
+      4: 400128
+    second: RigTongue01
+  - first:
+      4: 400130
+    second: RigTongue01Gizmo
+  - first:
+      4: 400132
+    second: RigTongue02
+  - first:
+      4: 400134
+    second: RigTongue02Gizmo
+  - first:
+      4: 400136
+    second: RigTongue03
+  - first:
+      4: 400138
+    second: RigTongue03Gizmo
+  - first:
+      4: 400140
+    second: RigTongue04
+  - first:
+      4: 400142
+    second: RigTongue04Gizmo
+  - first:
+      4: 400144
+    second: King Cobra
+  - first:
+      43: 4300000
+    second: King Cobra
+  - first:
+      74: 7400000
+    second: Slither Forward W Root
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: King Cobra
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Slither Forward W Root
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Polygonal King Cobra@Slither Forward W Root(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: King Cobra
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.50000006, y: -0.50000006, z: -0.49999994, w: 0.49999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigPelvisGizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.0000000060087846, y: 0.23327222, z: 0.24736544}
+      rotation: {x: 0.6272728, y: -0.3839772, z: -0.5778873, w: 0.3537466}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: RigRibcageGizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.009010891, y: 1.0950608, z: -0.002405667}
+      rotation: {x: -0.5376518, y: 0.44028068, z: 0.55634654, w: -0.45558974}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigHeadGizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.012317991, y: 1.3597865, z: 0.6814907}
+      rotation: {x: 0.48769644, y: -0.52632934, z: -0.47220486, w: 0.512008}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigLArm1Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.23647295, y: 1.2263534, z: -0.10312088}
+      rotation: {x: 0.973989, y: 0.00011507544, z: 0.004693471, w: -0.22654673}
+      scale: {x: 0.99999964, y: 1, z: 1.0000002}
+    - name: RigLArm2Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.39908072, y: 1.2266628, z: -0.104616106}
+      rotation: {x: 0.84304, y: 0.020611076, z: 0.00073059736, w: 0.53745544}
+      scale: {x: 0.9999965, y: 1.0000033, z: 1}
+    - name: RigRArm1Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.21104173, y: 1.2263534, z: -0.11842021}
+      rotation: {x: 0.0046933917, y: -0.22654651, z: 0.97398907, w: 0.00011666338}
+      scale: {x: 1.0000004, y: 0.9999998, z: 0.99999976}
+    - name: RigRArm2Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.3736496, y: 1.2266622, z: -0.11991553}
+      rotation: {x: 0.000712558, y: 0.5374563, z: 0.8430387, w: 0.020641448}
+      scale: {x: 1.0000035, y: 0.9999965, z: 0.9999994}
+    - name: RigJawGizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.010583252, y: 1.3129106, z: 0.6268723}
+      rotation: {x: 0.6847479, y: 0.21407728, z: -0.66385347, w: -0.21116337}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: RigTongue01Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.01461326, y: 1.2425412, z: 0.75195175}
+      rotation: {x: 0.7131415, y: 0.07707045, z: -0.6922032, w: -0.079649806}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigTongue02Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.017434012, y: 1.2217195, z: 0.8441493}
+      rotation: {x: 0.6298939, y: 0.4936458, z: -0.4434824, w: -0.40357262}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: RigTongue03Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.029840665, y: 1.1197984, z: 0.86081815}
+      rotation: {x: -0.49487475, y: -0.5846266, z: 0.26670298, w: 0.5849618}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: RigTongue04Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.044514626, y: 1.0447568, z: 0.82543135}
+      rotation: {x: 0.7969799, y: 0.072992176, z: -0.55566627, w: -0.22523355}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: RigFeelerR01Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.018504048, y: 1.1921906, z: 0.75274456}
+      rotation: {x: -0.44542634, y: -0.5612157, z: 0.42640093, w: 0.5521002}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigFeelerR02Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.018227307, y: 1.1504635, z: 0.7424359}
+      rotation: {x: -0.33621743, y: -0.6320015, z: 0.31779474, w: 0.62172216}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: RigFeelerR03Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.01826156, y: 1.1169744, z: 0.7190726}
+      rotation: {x: -0.16573031, y: -0.7473869, z: 0.24282776, w: 0.59580284}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1}
+    - name: RigFeelerL01Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.04821705, y: 1.1925213, z: 0.750781}
+      rotation: {x: -0.44542634, y: -0.56121564, z: 0.42640084, w: 0.5521002}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RigFeelerL02Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.0484938, y: 1.1507941, z: 0.7404723}
+      rotation: {x: -0.33621746, y: -0.6320015, z: 0.31779468, w: 0.62172216}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: RigFeelerL03Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.048459552, y: 1.1173052, z: 0.71710896}
+      rotation: {x: -0.25777543, y: -0.60825396, z: 0.14596204, w: 0.7363927}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: RigTail1Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.0021181356, y: 0.16766557, z: 0.22156425}
+      rotation: {x: -0.09108352, y: -0.73131627, z: 0.08632815, w: 0.67039376}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: RigTail2Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.018086756, y: 0.12064485, z: 0.03934818}
+      rotation: {x: -0.016616197, y: -0.7480883, z: 0.030088156, w: 0.6627086}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: RigTail3Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.04933085, y: 0.10393934, z: -0.21624753}
+      rotation: {x: -0.017529242, y: -0.76051563, z: 0.045119163, w: 0.6475129}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: RigTail4Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.09400669, y: 0.08030334, z: -0.48937693}
+      rotation: {x: 0.0013242352, y: -0.7655372, z: 0.02850941, w: 0.6427584}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: RigTail5Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.14166698, y: 0.0708048, z: -0.75938994}
+      rotation: {x: -0.010451681, y: -0.7530311, z: 0.029069664, w: 0.6572594}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: RigTail6Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.17775583, y: 0.056466825, z: -1.022284}
+      rotation: {x: -0.006731837, y: -0.72140586, z: 0.009828547, w: 0.69241005}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+    - name: RigTail7Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.18655027, y: 0.051469564, z: -1.2363033}
+      rotation: {x: -0.017179672, y: -0.6651995, z: -0.0060445513, w: 0.7464435}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: RigTail8Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.16395906, y: 0.048751064, z: -1.431519}
+      rotation: {x: -0.03497742, y: -0.5777732, z: -0.041925404, w: 0.8143691}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999998}
+    - name: RigTail9Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: 0.09194866, y: 0.05485355, z: -1.6382327}
+      rotation: {x: -0.010097479, y: -0.46133542, z: -0.10382748, w: 0.8810718}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999998}
+    - name: RigTail10Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.030505523, y: 0.093319595, z: -1.8187832}
+      rotation: {x: 0.10345638, y: -0.33031294, z: -0.16660215, w: 0.92327344}
+      scale: {x: 0.9999996, y: 0.99999964, z: 0.9999998}
+    - name: RigTail11Gizmo
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.13588537, y: 0.14787365, z: -1.9022813}
+      rotation: {x: 0.22291507, y: -0.2367517, z: -0.1905018, w: 0.9262648}
+      scale: {x: 0.9999995, y: 0.9999994, z: 0.9999997}
+    - name: RigPelvis
+      parentName: Polygonal King Cobra@Slither Forward W Root(Clone)
+      position: {x: -0.0000000060087846, y: 0.23327222, z: 0.24736544}
+      rotation: {x: 0.6272728, y: -0.3839772, z: -0.5778873, w: 0.3537466}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: RigSpine1
+      parentName: RigPelvis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000659668, y: 0.0065255533, z: 0.054907016, w: 0.99846995}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000001}
+    - name: RigSpine2
+      parentName: RigSpine1
+      position: {x: -0.15235275, y: 0.000000019073486, z: -0.0000000023841857}
+      rotation: {x: -0.0012192009, y: 0.013295716, z: 0.4135472, w: 0.91038483}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000004}
+    - name: RigSpine3
+      parentName: RigSpine2
+      position: {x: -0.1376112, y: -0.000000038146972, z: 0.0000000023841857}
+      rotation: {x: -0.005720417, y: 0.014116785, z: -0.06309755, w: 0.9978911}
+      scale: {x: 0.9999987, y: 1.0000001, z: 0.9999995}
+    - name: RigSpine4
+      parentName: RigSpine3
+      position: {x: -0.13145012, y: 0, z: 0}
+      rotation: {x: -0.013083606, y: -0.00912332, z: 0.08153344, w: 0.996543}
+      scale: {x: 1.0000005, y: 0.9999999, z: 1.0000001}
+    - name: RigSpine5
+      parentName: RigSpine4
+      position: {x: -0.14710774, y: 0, z: 0}
+      rotation: {x: -0.012359812, y: -0.0051512206, z: -0.02463591, w: 0.9996068}
+      scale: {x: 1.0000006, y: 0.9999995, z: 0.9999999}
+    - name: RigSpine6
+      parentName: RigSpine5
+      position: {x: -0.13207649, y: -0.000000038146972, z: 5.9604643e-10}
+      rotation: {x: -0.0138418935, y: -0.0021805756, z: 0.009495586, w: 0.99985677}
+      scale: {x: 0.99999964, y: 1.0000001, z: 0.99999994}
+    - name: RigSpine7
+      parentName: RigSpine6
+      position: {x: -0.11104111, y: 0, z: 0}
+      rotation: {x: -0.013441961, y: 0.0028735655, z: -0.23804562, w: 0.9711567}
+      scale: {x: 1.0000005, y: 0.9999999, z: 1.0000001}
+    - name: RigRibcage
+      parentName: RigSpine7
+      position: {x: -0.13400932, y: -0.0000000023841857, z: 0.0000000011920929}
+      rotation: {x: -0.03076278, y: 0.27374655, z: -0.2359652, w: 0.93189967}
+      scale: {x: 0.9999999, y: 0.99999964, z: 0.99999994}
+    - name: RigNeck1
+      parentName: RigRibcage
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.119706556, y: -0.5851565, z: -0.17715643, w: 0.78222626}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: RigNeck2
+      parentName: RigNeck1
+      position: {x: -0.17006385, y: 0, z: 5.9604643e-10}
+      rotation: {x: -0.022865735, y: -0.120617375, z: -0.032534983, w: 0.9919023}
+      scale: {x: 0.9999998, y: 0.99999976, z: 0.9999999}
+    - name: RigNeck3
+      parentName: RigNeck2
+      position: {x: -0.22442314, y: 0.000000076293944, z: 0.0000000011920929}
+      rotation: {x: 0.0084668165, y: -0.01656796, z: -0.01781434, w: 0.9996682}
+      scale: {x: 0.9999994, y: 1.000001, z: 1.0000001}
+    - name: RigNeck4
+      parentName: RigNeck3
+      position: {x: -0.14866795, y: 0, z: 0}
+      rotation: {x: 0.008263521, y: 0.0022443598, z: 0.031143794, w: 0.9994782}
+      scale: {x: 1.0000043, y: 0.9999956, z: 1}
+    - name: RigNeck5
+      parentName: RigNeck4
+      position: {x: -0.123680264, y: 0.00000015258789, z: 0}
+      rotation: {x: -0.002213102, y: 0.091768675, z: -0.15580723, w: 0.98351294}
+      scale: {x: 0.99999684, y: 1.0000035, z: 0.9999999}
+    - name: RigHead
+      parentName: RigNeck5
+      position: {x: -0.11533489, y: 0, z: -0.0000000023841857}
+      rotation: {x: 0.36711603, y: 0.6525684, z: 0.5932005, w: -0.295793}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: RigJaw
+      parentName: RigHead
+      position: {x: 0.042450484, y: -0.058150556, z: 0.000000014305114}
+      rotation: {x: -0.0030862615, y: 0.0019496997, z: 0.90441823, w: -0.42663136}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: RigFeelerR01
+      parentName: RigJaw
+      position: {x: -0.17151016, y: 0.02708435, z: -0.0333754}
+      rotation: {x: 0.00270941, y: 0.0034046613, z: -0.5654089, w: 0.8247993}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: RigFeelerR02
+      parentName: RigFeelerR01
+      position: {x: -0.04298248, y: 0, z: 0.0000000047683715}
+      rotation: {x: 0.00017111257, y: 0.0018013448, z: -0.18246803, w: 0.98321015}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: RigFeelerR03
+      parentName: RigFeelerR02
+      position: {x: -0.040833585, y: -0.000000076293944, z: 0.0000000011920929}
+      rotation: {x: 0.013233012, y: -0.11709335, z: -0.18491434, w: 0.97566426}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: RigTongue01
+      parentName: RigJaw
+      position: {x: -0.14287509, y: -0.014130707, z: 0.0000000023841857}
+      rotation: {x: 0.0009721323, y: 0.00021356581, z: 0.19318569, w: 0.9811617}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: RigTongue02
+      parentName: RigTongue01
+      position: {x: -0.094561495, y: -0.00000015258789, z: 0.0000000011920929}
+      rotation: {x: -0.06989031, y: 0.11153361, z: -0.54752403, w: 0.82637346}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: RigTongue03
+      parentName: RigTongue02
+      position: {x: -0.10401779, y: 0, z: 0.000000009536743}
+      rotation: {x: 0.041131105, y: 0.104298376, z: -0.27574614, w: 0.9546697}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: RigTongue04
+      parentName: RigTongue03
+      position: {x: -0.08425438, y: 0.000000038146972, z: 0.000000019073486}
+      rotation: {x: -0.04935025, y: 0.026551528, z: 0.6947867, w: 0.7170293}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: RigFeelerL01
+      parentName: RigJaw
+      position: {x: -0.17151028, y: 0.027084503, z: 0.03337541}
+      rotation: {x: 0.0027094225, y: 0.0034047454, z: -0.5654089, w: 0.8247993}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: RigFeelerL02
+      parentName: RigFeelerL01
+      position: {x: -0.04298248, y: 0, z: 0}
+      rotation: {x: 0.00017112512, y: 0.0018013743, z: -0.18246803, w: 0.98321015}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: RigFeelerL03
+      parentName: RigFeelerL02
+      position: {x: -0.040833436, y: 0.000000038146972, z: 0.0000000047683715}
+      rotation: {x: -0.013728254, y: 0.12008099, z: -0.18486495, w: 0.9753036}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: RigRArm1
+      parentName: RigRibcage
+      position: {x: -0.10733482, y: -0.13218792, z: -0.22388805}
+      rotation: {x: 0.5569465, y: 0.42311174, z: 0.5635451, w: -0.43954977}
+      scale: {x: 1.0000002, y: 0.9999998, z: 0.99999976}
+    - name: RigRArm2
+      parentName: RigRArm1
+      position: {x: -0.16261502, y: 0.000000076293944, z: 0}
+      rotation: {x: 0.71436656, y: 0.008001663, z: -0.022690168, w: 0.69935805}
+      scale: {x: 1.0000032, y: 0.99999684, z: 0.9999995}
+    - name: RigLArm1
+      parentName: RigRibcage
+      position: {x: -0.1073349, y: -0.13218792, z: 0.22388807}
+      rotation: {x: 0.56754726, y: 0.44470453, z: -0.5527927, w: 0.41778973}
+      scale: {x: 0.9999996, y: 1, z: 1.0000002}
+    - name: RigLArm2
+      parentName: RigLArm1
+      position: {x: -0.16261503, y: 0, z: 0}
+      rotation: {x: -0.7143677, y: -0.00797638, z: -0.022665989, w: 0.6993579}
+      scale: {x: 0.99999696, y: 1.0000032, z: 1.0000001}
+    - name: RigTail1
+      parentName: RigPelvis
+      position: {x: 0.070202366, y: 0.006786127, z: 0.000000009536743}
+      rotation: {x: 0.0030260978, y: 0.0002306197, z: 0.91165906, w: 0.4109362}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: RigTail2
+      parentName: RigTail1
+      position: {x: -0.18886143, y: -0.000000009536743, z: 0}
+      rotation: {x: -0.014663272, y: 0.027772414, z: 0.53339547, w: 0.84528273}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: RigTail3
+      parentName: RigTail2
+      position: {x: -0.2580396, y: 0, z: -0.0000000023841857}
+      rotation: {x: 0.010013073, y: -0.01982573, z: 0.010894938, w: 0.99969393}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: RigTail4
+      parentName: RigTail3
+      position: {x: -0.27776653, y: 0, z: 0.0000000035762786}
+      rotation: {x: -0.000733932, y: -0.007426875, z: -0.02496691, w: 0.99966043}
+      scale: {x: 0.9999997, y: 0.9999998, z: 0.9999999}
+    - name: RigTail5
+      parentName: RigTail4
+      position: {x: -0.27435157, y: 0, z: -0.000000009536743}
+      rotation: {x: -0.0068030795, y: 0.019475892, z: 0.008945048, w: 0.9997472}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999994}
+    - name: RigTail6
+      parentName: RigTail5
+      position: {x: -0.26574677, y: 0, z: 0.000000019073486}
+      rotation: {x: 0.63925743, y: 0.7637625, z: -0.040741444, w: 0.07973104}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: RigTail7
+      parentName: RigTail6
+      position: {x: -0.21425812, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.017768959, y: 0.07810749, z: -0.0036062694, w: 0.9967801}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: RigTail8
+      parentName: RigTail7
+      position: {x: -0.19653739, y: 0, z: 0}
+      rotation: {x: -0.036514424, y: 0.11095179, z: -0.01303145, w: 0.9930693}
+      scale: {x: 0.9999999, y: 0.9999997, z: 1}
+    - name: RigTail9
+      parentName: RigTail8
+      position: {x: -0.21898223, y: 0, z: 0}
+      rotation: {x: -0.018052494, y: 0.13657062, z: -0.057916865, w: 0.9887711}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: RigTail10
+      parentName: RigTail9
+      position: {x: -0.22152466, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.057911374, y: 0.1473332, z: -0.101990774, w: 0.98210853}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.99999994}
+    - name: RigTail11
+      parentName: RigTail10
+      position: {x: -0.14509651, y: 0, z: 0}
+      rotation: {x: 0.08650167, y: 0.10480017, z: -0.07070578, w: 0.9881979}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.9999999}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

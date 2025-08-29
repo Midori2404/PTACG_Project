@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b99d9e377617439241b2c6facfa5a, type: 3}
+  m_Name: Woodland_Treant_Dark_Hard
+  m_EditorClassIdentifier: 
+  enemyType: 1
+  enemyPrefab: {fileID: 6725813316204814366, guid: d81784be7d2c3a84d9f80c5764e07282, type: 3}
+  maxHealth: 88
+  movementSpeed: 8
+  attackDamage: 13
+  attackRate: 1.7
+  attackRange: 2
+  projectilePrefab: {fileID: 2477636207037979485, guid: cbffe3a3da9d29d4788438f5c183b2ca, type: 3}

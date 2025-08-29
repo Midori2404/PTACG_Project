@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b99d9e377617439241b2c6facfa5a, type: 3}
+  m_Name: Boss_Minion
+  m_EditorClassIdentifier: 
+  enemyType: 1
+  enemyPrefab: {fileID: 3674545157454464388, guid: 4552082fc2a0dd649a410d56f6d114ca, type: 3}
+  maxHealth: 50
+  movementSpeed: 8
+  attackDamage: 5
+  attackRate: 1.5
+  attackRange: 15
+  projectilePrefab: {fileID: 8660803387555208492, guid: 84a25bcd589f5a64aad6b45712c9d4a7, type: 3}

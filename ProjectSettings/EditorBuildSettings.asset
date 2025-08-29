@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu(BackupScene).unity
+    guid: d81106fe60d37c949a6ed1d34c819b3c
+  - enabled: 1
+    path: Assets/Scenes/EnchantedForest_e.unity
+    guid: 0ee417301f37ea9498ecaa7c8bea2a17
+  - enabled: 1
+    path: Assets/Scenes/EnchantedForest_h.unity
+    guid: c961cc0544477ab4986a198cb5cda4a4
+  - enabled: 1
+    path: Assets/Scenes/AbandonedRuins_e.unity
+    guid: 4c65a482edd67464c9e35112805ff322
+  - enabled: 1
+    path: Assets/Scenes/AbandonedRuins_h.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Woodland_e.unity
+    guid: cf7d1789953a0944eb00ac53e912dd0d
+  - enabled: 1
+    path: Assets/Scenes/Woodland_h.unity
+    guid: 9c9d133cf8a29f94b914bf74efef2d5e
+  - enabled: 1
+    path: Assets/Scenes/Everfrost_e.unity
+    guid: 87258f8c2535ceb4cb05fcce366f1b75
+  - enabled: 1
+    path: Assets/Scenes/Everfrost_h.unity
+    guid: 0aef5186277d6dd4bb2b6f416b4486f9
+  m_configObjects: {}

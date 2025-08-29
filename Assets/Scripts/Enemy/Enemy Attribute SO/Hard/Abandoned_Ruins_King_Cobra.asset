@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b99d9e377617439241b2c6facfa5a, type: 3}
+  m_Name: Abandoned_Ruins_King_Cobra
+  m_EditorClassIdentifier: 
+  enemyType: 1
+  enemyPrefab: {fileID: 3674545157454464388, guid: 8b1e30eac3f419d4f8febdcfc71532f3, type: 3}
+  maxHealth: 100
+  movementSpeed: 6
+  attackDamage: 10
+  attackRate: 2
+  attackRange: 15
+  projectilePrefab: {fileID: 8660803387555208492, guid: 84a25bcd589f5a64aad6b45712c9d4a7, type: 3}

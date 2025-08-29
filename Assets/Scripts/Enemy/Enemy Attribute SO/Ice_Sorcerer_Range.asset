@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b99d9e377617439241b2c6facfa5a, type: 3}
+  m_Name: Ice_Sorcerer_Range
+  m_EditorClassIdentifier: 
+  enemyType: 1
+  enemyPrefab: {fileID: 1389891077481914045, guid: d7dab5b6ed338ca47a1e9c6a283b772f, type: 3}
+  maxHealth: 46
+  movementSpeed: 6.5
+  attackDamage: 10
+  attackRate: 1.6
+  attackRange: 6
+  projectilePrefab: {fileID: 1978937533168522, guid: 92e5bfa0b7aa41a458dab282f29c9ca9, type: 3}

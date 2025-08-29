@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: d1341494b9fcbc04f9993eff4a042d06
+timeCreated: 1453962628
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: //RootNode
+    100006: Object001
+    100008: Object002
+    100010: Object003
+    100012: Object004
+    100014: Object005
+    100016: Object006
+    100018: Object007
+    100020: Object008
+    100022: Plane011
+    100024: Plane012
+    100026: Plane014
+    100028: Plane015
+    100030: Ice Guardian
+    100032: Rig
+    100034: RigHead
+    100036: RigHeadGizmo
+    100038: RigLArm1
+    100040: RigLArm1Gizmo
+    100042: RigLArm2
+    100044: RigLArm2Gizmo
+    100046: RigLArmIndex1
+    100048: RigLArmPalm
+    100050: RigLArmPalmGizmo
+    100052: RigLLeg1
+    100054: RigLLeg2
+    100056: RigLLegAnkle
+    100058: RigLLegPlatform
+    100060: RigNeck1
+    100062: RigNeck2
+    100064: RigPelvis
+    100066: RigPelvisGizmo
+    100068: RigRArm1
+    100070: RigRArm1Gizmo
+    100072: RigRArm2
+    100074: RigRArm2Gizmo
+    100076: RigRArmIndex1
+    100078: RigRArmPalm
+    100080: RigRArmPalmGizmo
+    100082: RigRibcage
+    100084: RigRibcageGizmo
+    100086: RigRLeg1
+    100088: RigRLeg2
+    100090: RigRLegAnkle
+    100092: RigRLegPlatform
+    100094: RigRShoulderRock
+    100096: RigRShoulderRockGizmo
+    100098: RigSpine1
+    100100: RigSpine2
+    100102: RigSpine3
+    100104: RigSpine4
+    100106: RigSpine5
+    400000: Box001
+    400002: Box002
+    400004: //RootNode
+    400006: Object001
+    400008: Object002
+    400010: Object003
+    400012: Object004
+    400014: Object005
+    400016: Object006
+    400018: Object007
+    400020: Object008
+    400022: Plane011
+    400024: Plane012
+    400026: Plane014
+    400028: Plane015
+    400030: Ice Guardian
+    400032: Rig
+    400034: RigHead
+    400036: RigHeadGizmo
+    400038: RigLArm1
+    400040: RigLArm1Gizmo
+    400042: RigLArm2
+    400044: RigLArm2Gizmo
+    400046: RigLArmIndex1
+    400048: RigLArmPalm
+    400050: RigLArmPalmGizmo
+    400052: RigLLeg1
+    400054: RigLLeg2
+    400056: RigLLegAnkle
+    400058: RigLLegPlatform
+    400060: RigNeck1
+    400062: RigNeck2
+    400064: RigPelvis
+    400066: RigPelvisGizmo
+    400068: RigRArm1
+    400070: RigRArm1Gizmo
+    400072: RigRArm2
+    400074: RigRArm2Gizmo
+    400076: RigRArmIndex1
+    400078: RigRArmPalm
+    400080: RigRArmPalmGizmo
+    400082: RigRibcage
+    400084: RigRibcageGizmo
+    400086: RigRLeg1
+    400088: RigRLeg2
+    400090: RigRLegAnkle
+    400092: RigRLegPlatform
+    400094: RigRShoulderRock
+    400096: RigRShoulderRockGizmo
+    400098: RigSpine1
+    400100: RigSpine2
+    400102: RigSpine3
+    400104: RigSpine4
+    400106: RigSpine5
+    2300000: Box001
+    2300002: Box002
+    2300004: Object001
+    2300006: Object002
+    2300008: Object003
+    2300010: Object004
+    2300012: Object005
+    2300014: Object006
+    2300016: Object007
+    2300018: Object008
+    2300020: Plane011
+    2300022: Plane012
+    2300024: Plane014
+    2300026: Plane015
+    2300028: //RootNode
+    2300030: Ice Guardian
+    3300000: Box001
+    3300002: Box002
+    3300004: Object001
+    3300006: Object002
+    3300008: Object003
+    3300010: Object004
+    3300012: Object005
+    3300014: Object006
+    3300016: Object007
+    3300018: Object008
+    3300020: Plane011
+    3300022: Plane012
+    3300024: Plane014
+    3300026: Plane015
+    3300028: //RootNode
+    3300030: Ice Guardian
+    4300000: Box001
+    4300002: Box002
+    4300004: Object001
+    4300006: Plane011
+    4300008: Plane012
+    4300010: Object002
+    4300012: Plane014
+    4300014: Plane015
+    4300016: Object003
+    4300018: Object004
+    4300020: Object005
+    4300022: Object006
+    4300024: Object007
+    4300026: Object008
+    4300028: Ice Guardian
+    9500000: //RootNode
+    13700000: Ice Guardian
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

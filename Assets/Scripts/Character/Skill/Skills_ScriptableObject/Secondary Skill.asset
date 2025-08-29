@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 351c0f6af75dca548863aa6130dd4ea7, type: 3}
+  m_Name: Secondary Skill
+  m_EditorClassIdentifier: 
+  frontSpikeDamageMultiplier: 4
+  frontSpikeAngle: 40
+  frontSpikeCastTime: 1.5
+  frontSpikeCooldown: 20
+  frontSpikeEffect: {fileID: 8752740550982779368, guid: bdbb33a409673e44aa7dc3a75f789839, type: 3}
+  skillEffectOffset: {x: 0, y: 0, z: 2}
+  frontSpikeParalyzeDuration: 6
+  frontSpikeTickInterval: 1
+  frontSpikeDamagePerTick: 8
+  frontSpikeSlowDuration: 2
+  frontSpikeSlowAmount: 2
+  hitImpactSoundEffect: {fileID: 8300000, guid: bfca528ec585a864ebff437b4ab6d80e, type: 3}
+  electricSoundEffect: {fileID: 8300000, guid: 0e42a821da2c7b34794ce77c1ec44561, type: 3}
+  healthToSacrifice: 0.3
+  berserkCooldown: 25
+  berserkCastTime: 0
+  berserkDuration: 10
+  berserkAttackBoost: 0.5
+  berserkSpeedBoost: 0.3
+  berserkActivationEffect: {fileID: 1171190231128718, guid: d9467a10b94fb3b428cc539326c9579b, type: 3}
+  berserkAfterEffects:
+  - {fileID: 3060430898145011514, guid: 750f4cf459f820140bfa686a9b8e57aa, type: 3}
+  berserkAfterEffectsOffset: {x: 0, y: 1.5, z: 0}
+  berserkSound: {fileID: 8300000, guid: af5183a09a27dbd408fca2517ac92cab, type: 3}
+  rainArrowCooldown: 17
+  rainArrowDuration: 5
+  rainArrowRadius: 3
+  rainArrowDamagePerTick: 20
+  castTime: 0.7
+  rainArrowEffect: {fileID: 3699028135420032156, guid: 6ada08373ee05404b9ae086cc5d6ab80, type: 3}
+  rainArrowIndicator: {fileID: 2684136664578988166, guid: d9ad1c12272fb174384cb8293d617a6e, type: 3}
+  rainArrowCastPrefab: {fileID: 5126733971683333059, guid: 828c767c60a21944cb8d58eacb31cc4f, type: 3}
+  rainArrowReleasedEffect: {fileID: 6859869081863720788, guid: efbdd366894dd4d45a7aac9cf75a6a6a, type: 3}
+  rainArrowCastSoundEffect: {fileID: 8300000, guid: 3956d01a15fdf7d43b20cb610fb37504, type: 3}
+  rainArrowSoundEffect: {fileID: 8300000, guid: 5d67aa0414c853641aed5f095ffdb75d, type: 3}
+  shockBlastCooldown: 23
+  shockBlastDuration: 15
+  shockBlastBullets: 10
+  shockBlastDamage: 100
+  shockBlastDelay: 1
+  shockBlastCastTime: 1.35
+  shockBlastProjectile: {fileID: 5713100078964561074, guid: 8184d3b9be6749a4aadd8398e283652f, type: 3}
+  shockBlastCastPrefabs:
+  - {fileID: 8926303553168323416, guid: 2b8cae07e1b062f4b905e898f755ac22, type: 3}
+  - {fileID: 5325937585791303888, guid: cc9775da0e7478944a8ac4673586bc6b, type: 3}
+  shockBlastReleasedEffect: {fileID: 0}
+  shockBlastCastAura: {fileID: 6143944155779202424, guid: 79609ca431fb4a64c810923937a31bdb, type: 3}
+  shockBlastIndicator: {fileID: 5366619445089029202, guid: b51fcb1ca853810418a1aaf416450814, type: 3}
+  shockBlastCastSound: {fileID: 8300000, guid: e75134c8a2f418b42b373f2875d66bab, type: 3}

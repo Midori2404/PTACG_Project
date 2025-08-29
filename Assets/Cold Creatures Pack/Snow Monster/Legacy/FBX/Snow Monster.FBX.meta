@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: eafb0efb674b05f488d57b1e094a22f8
+timeCreated: 1449558098
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Rig
+    100004: RigHead
+    100006: RigHeadGizmo
+    100008: RigLDownArm1
+    100010: RigLDownArm1Gizmo
+    100012: RigLDownArm2
+    100014: RigLDownArm2Gizmo
+    100016: RigLDownArmIndex1
+    100018: RigLDownArmPalm
+    100020: RigLDownArmPalmGizmo
+    100022: RigLDownArmPinky1
+    100024: RigLDownArmThumb1
+    100026: RigLLeg1
+    100028: RigLLeg2
+    100030: RigLLegAnkle
+    100032: RigLLegFoot1
+    100034: RigLLegFoot2
+    100036: RigLLegPlatform
+    100038: RigLUpArm1
+    100040: RigLUpArm1Gizmo
+    100042: RigLUpArm2
+    100044: RigLUpArm2Gizmo
+    100046: RigLUpArmIndex1
+    100048: RigLUpArmPalm
+    100050: RigLUpArmPalmGizmo
+    100052: RigLUpArmPinky1
+    100054: RigLUpArmThumb1
+    100056: RigNeck1
+    100058: RigNeck2
+    100060: RigNeck3
+    100062: RigPelvis
+    100064: RigPelvisGizmo
+    100066: RigRDownArm1
+    100068: RigRDownArm1Gizmo
+    100070: RigRDownArm2
+    100072: RigRDownArm2Gizmo
+    100074: RigRDownArmIndex1
+    100076: RigRDownArmPalm
+    100078: RigRDownArmPalmGizmo
+    100080: RigRDownArmPinky1
+    100082: RigRDownArmThumb1
+    100084: RigRibcage
+    100086: RigRibcageGizmo
+    100088: RigRLeg1
+    100090: RigRLeg2
+    100092: RigRLegAnkle
+    100094: RigRLegFoot1
+    100096: RigRLegFoot2
+    100098: RigRLegPlatform
+    100100: RigRUpArm1
+    100102: RigRUpArm1Gizmo
+    100104: RigRUpArm2
+    100106: RigRUpArm2Gizmo
+    100108: RigRUpArmIndex1
+    100110: RigRUpArmPalm
+    100112: RigRUpArmPalmGizmo
+    100114: RigRUpArmPinky1
+    100116: RigRUpArmThumb1
+    100118: RigSpine1
+    100120: RigSpine2
+    100122: RigSpine3
+    100124: Snow Monster
+    400000: //RootNode
+    400002: Rig
+    400004: RigHead
+    400006: RigHeadGizmo
+    400008: RigLDownArm1
+    400010: RigLDownArm1Gizmo
+    400012: RigLDownArm2
+    400014: RigLDownArm2Gizmo
+    400016: RigLDownArmIndex1
+    400018: RigLDownArmPalm
+    400020: RigLDownArmPalmGizmo
+    400022: RigLDownArmPinky1
+    400024: RigLDownArmThumb1
+    400026: RigLLeg1
+    400028: RigLLeg2
+    400030: RigLLegAnkle
+    400032: RigLLegFoot1
+    400034: RigLLegFoot2
+    400036: RigLLegPlatform
+    400038: RigLUpArm1
+    400040: RigLUpArm1Gizmo
+    400042: RigLUpArm2
+    400044: RigLUpArm2Gizmo
+    400046: RigLUpArmIndex1
+    400048: RigLUpArmPalm
+    400050: RigLUpArmPalmGizmo
+    400052: RigLUpArmPinky1
+    400054: RigLUpArmThumb1
+    400056: RigNeck1
+    400058: RigNeck2
+    400060: RigNeck3
+    400062: RigPelvis
+    400064: RigPelvisGizmo
+    400066: RigRDownArm1
+    400068: RigRDownArm1Gizmo
+    400070: RigRDownArm2
+    400072: RigRDownArm2Gizmo
+    400074: RigRDownArmIndex1
+    400076: RigRDownArmPalm
+    400078: RigRDownArmPalmGizmo
+    400080: RigRDownArmPinky1
+    400082: RigRDownArmThumb1
+    400084: RigRibcage
+    400086: RigRibcageGizmo
+    400088: RigRLeg1
+    400090: RigRLeg2
+    400092: RigRLegAnkle
+    400094: RigRLegFoot1
+    400096: RigRLegFoot2
+    400098: RigRLegPlatform
+    400100: RigRUpArm1
+    400102: RigRUpArm1Gizmo
+    400104: RigRUpArm2
+    400106: RigRUpArm2Gizmo
+    400108: RigRUpArmIndex1
+    400110: RigRUpArmPalm
+    400112: RigRUpArmPalmGizmo
+    400114: RigRUpArmPinky1
+    400116: RigRUpArmThumb1
+    400118: RigSpine1
+    400120: RigSpine2
+    400122: RigSpine3
+    400124: Snow Monster
+    2300000: //RootNode
+    2300002: Snow Monster
+    3300000: //RootNode
+    3300002: Snow Monster
+    4300000: Snow Monster
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Snow Monster
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

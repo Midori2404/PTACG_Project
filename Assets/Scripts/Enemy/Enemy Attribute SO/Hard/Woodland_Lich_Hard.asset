@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b99d9e377617439241b2c6facfa5a, type: 3}
+  m_Name: Woodland_Lich_Hard
+  m_EditorClassIdentifier: 
+  enemyType: 0
+  enemyPrefab: {fileID: 3971540862746131096, guid: 20fb4430ea23fab4fa404369022bf682, type: 3}
+  maxHealth: 95
+  movementSpeed: 8.2
+  attackDamage: 13
+  attackRate: 1.6
+  attackRange: 2
+  projectilePrefab: {fileID: 0}

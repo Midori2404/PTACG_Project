@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d8b99d9e377617439241b2c6facfa5a, type: 3}
+  m_Name: Evil_Mushroom_Red
+  m_EditorClassIdentifier: 
+  enemyType: 0
+  enemyPrefab: {fileID: 7211863172971920841, guid: f0aff1cd51d41324793be4db7e3a7319, type: 3}
+  maxHealth: 55
+  movementSpeed: 6
+  attackDamage: 8
+  attackRate: 1.5
+  attackRange: 2
+  projectilePrefab: {fileID: 0}

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_Water
+  m_Shader: {fileID: -6465566751694194690, guid: be8e1d153aeba1242bf6ac4e0b68b7d9, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Base_Map:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Normal_Map:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Normal_Blend: 0.5
+    - _Absorption_Coefficient: 0.083
+    - _DecalMeshBiasType: 0
+    - _DecalMeshDepthBias: 0
+    - _DecalMeshViewBias: 0
+    - _Depth: 0
+    - _DrawOrder: 0
+    - _FoamAmount: 1
+    - _FoamCutOff: 4
+    - _FoamScale: 150
+    - _FoamSpeed: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Refraction_Scale: 1
+    - _Refraction_Speed: 0.05
+    - _Refraction_Strength: 1
+    - _RippleDensity: 10
+    - _RippleSlimness: 5
+    - _RippleSpeed: 1.5
+    - _WaveSpeed: 0.1
+    m_Colors:
+    - _Absorption_Color: {r: 1, g: 0, b: 0, a: 1}
+    - _BaseColor: {r: 0, g: 0.9843137, b: 1, a: 0}
+    - _Color: {r: 0.5646493, g: 0.9622642, b: 0.9258953, a: 0}
+    - _Deep_Water: {r: 0, g: 0.34958577, b: 1, a: 0.19607843}
+    - _FoamColor: {r: 1, g: 1, b: 1, a: 0.57254905}
+    - _RippleColor: {r: 4.4882436, g: 1.0104423, b: 0, a: 0}
+    - _Shallow_Water: {r: 0, g: 0.8699229, b: 1, a: 0.09803922}
+    - _TilingOffset: {r: 1, g: 1, b: 0, a: 0}
+    - _Water_Color: {r: 0, g: 0.44909668, b: 1, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &3892451691828586453
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7

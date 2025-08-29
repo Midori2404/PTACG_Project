@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 7b661231d71390149979620d71c2afbc
+timeCreated: 1452317559
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 3 Tailed Wolf
+    100002: //RootNode
+    100004: Rig
+    100006: RigHead
+    100008: RigHeadGizmo
+    100010: RigJawDown
+    100012: RigJawDownGizmo
+    100014: RigJawUp
+    100016: RigJawUpGizmo
+    100018: RigLLegBack1
+    100020: RigLLegBack2
+    100022: RigLLegBackAnkle
+    100024: RigLLegBackFoot1
+    100026: RigLLegBackFoot2
+    100028: RigLLegBackPlatform
+    100030: RigLLegFront1
+    100032: RigLLegFront2
+    100034: RigLLegFrontAnkle
+    100036: RigLLegFrontFoot1
+    100038: RigLLegFrontFoot2
+    100040: RigLLegFrontPlatform
+    100042: RigNeck1
+    100044: RigNeck2
+    100046: RigPelvis
+    100048: RigPelvisGizmo
+    100050: RigRibcage
+    100052: RigRibcageGizmo
+    100054: RigRLegBack1
+    100056: RigRLegBack2
+    100058: RigRLegBackAnkle
+    100060: RigRLegBackFoot1
+    100062: RigRLegBackFoot2
+    100064: RigRLegBackPlatform
+    100066: RigRLegFront1
+    100068: RigRLegFront2
+    100070: RigRLegFrontAnkle
+    100072: RigRLegFrontFoot1
+    100074: RigRLegFrontFoot2
+    100076: RigRLegFrontPlatform
+    100078: RigSpine1
+    100080: RigSpine2
+    100082: RigSpine3
+    100084: RigSpine4
+    100086: RigSpine5
+    100088: RigTailCenter1
+    100090: RigTailCenter1Gizmo
+    100092: RigTailCenter2
+    100094: RigTailCenter2Gizmo
+    100096: RigTailCenter3
+    100098: RigTailCenter3Gizmo
+    100100: RigTailCenter4
+    100102: RigTailCenter4Gizmo
+    100104: RigTailCenter5
+    100106: RigTailCenter5Gizmo
+    100108: RigTailCenter6
+    100110: RigTailCenter6Gizmo
+    100112: RigTailCenter7
+    100114: RigTailCenter7Gizmo
+    100116: RigTailLeft1
+    100118: RigTailLeft1Gizmo
+    100120: RigTailLeft2
+    100122: RigTailLeft2Gizmo
+    100124: RigTailLeft3
+    100126: RigTailLeft3Gizmo
+    100128: RigTailLeft4
+    100130: RigTailLeft4Gizmo
+    100132: RigTailLeft5
+    100134: RigTailLeft5Gizmo
+    100136: RigTailLeft6
+    100138: RigTailLeft6Gizmo
+    100140: RigTailLeft7
+    100142: RigTailLeft7Gizmo
+    100144: RigTailRight1
+    100146: RigTailRight1Gizmo
+    100148: RigTailRight2
+    100150: RigTailRight2Gizmo
+    100152: RigTailRight3
+    100154: RigTailRight3Gizmo
+    100156: RigTailRight4
+    100158: RigTailRight4Gizmo
+    100160: RigTailRight5
+    100162: RigTailRight5Gizmo
+    100164: RigTailRight6
+    100166: RigTailRight6Gizmo
+    100168: RigTailRight7
+    100170: RigTailRight7Gizmo
+    400000: 3 Tailed Wolf
+    400002: //RootNode
+    400004: Rig
+    400006: RigHead
+    400008: RigHeadGizmo
+    400010: RigJawDown
+    400012: RigJawDownGizmo
+    400014: RigJawUp
+    400016: RigJawUpGizmo
+    400018: RigLLegBack1
+    400020: RigLLegBack2
+    400022: RigLLegBackAnkle
+    400024: RigLLegBackFoot1
+    400026: RigLLegBackFoot2
+    400028: RigLLegBackPlatform
+    400030: RigLLegFront1
+    400032: RigLLegFront2
+    400034: RigLLegFrontAnkle
+    400036: RigLLegFrontFoot1
+    400038: RigLLegFrontFoot2
+    400040: RigLLegFrontPlatform
+    400042: RigNeck1
+    400044: RigNeck2
+    400046: RigPelvis
+    400048: RigPelvisGizmo
+    400050: RigRibcage
+    400052: RigRibcageGizmo
+    400054: RigRLegBack1
+    400056: RigRLegBack2
+    400058: RigRLegBackAnkle
+    400060: RigRLegBackFoot1
+    400062: RigRLegBackFoot2
+    400064: RigRLegBackPlatform
+    400066: RigRLegFront1
+    400068: RigRLegFront2
+    400070: RigRLegFrontAnkle
+    400072: RigRLegFrontFoot1
+    400074: RigRLegFrontFoot2
+    400076: RigRLegFrontPlatform
+    400078: RigSpine1
+    400080: RigSpine2
+    400082: RigSpine3
+    400084: RigSpine4
+    400086: RigSpine5
+    400088: RigTailCenter1
+    400090: RigTailCenter1Gizmo
+    400092: RigTailCenter2
+    400094: RigTailCenter2Gizmo
+    400096: RigTailCenter3
+    400098: RigTailCenter3Gizmo
+    400100: RigTailCenter4
+    400102: RigTailCenter4Gizmo
+    400104: RigTailCenter5
+    400106: RigTailCenter5Gizmo
+    400108: RigTailCenter6
+    400110: RigTailCenter6Gizmo
+    400112: RigTailCenter7
+    400114: RigTailCenter7Gizmo
+    400116: RigTailLeft1
+    400118: RigTailLeft1Gizmo
+    400120: RigTailLeft2
+    400122: RigTailLeft2Gizmo
+    400124: RigTailLeft3
+    400126: RigTailLeft3Gizmo
+    400128: RigTailLeft4
+    400130: RigTailLeft4Gizmo
+    400132: RigTailLeft5
+    400134: RigTailLeft5Gizmo
+    400136: RigTailLeft6
+    400138: RigTailLeft6Gizmo
+    400140: RigTailLeft7
+    400142: RigTailLeft7Gizmo
+    400144: RigTailRight1
+    400146: RigTailRight1Gizmo
+    400148: RigTailRight2
+    400150: RigTailRight2Gizmo
+    400152: RigTailRight3
+    400154: RigTailRight3Gizmo
+    400156: RigTailRight4
+    400158: RigTailRight4Gizmo
+    400160: RigTailRight5
+    400162: RigTailRight5Gizmo
+    400164: RigTailRight6
+    400166: RigTailRight6Gizmo
+    400168: RigTailRight7
+    400170: RigTailRight7Gizmo
+    4300000: 3 Tailed Wolf
+    7400000: Defend
+    9500000: //RootNode
+    13700000: 3 Tailed Wolf
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Defend
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 3 Tailed Wolf
+        weight: 1
+      - path: Rig
+        weight: 1
+      - path: RigHeadGizmo
+        weight: 1
+      - path: RigJawDownGizmo
+        weight: 1
+      - path: RigJawUpGizmo
+        weight: 1
+      - path: RigLLegBackPlatform
+        weight: 1
+      - path: RigLLegFrontPlatform
+        weight: 1
+      - path: RigPelvis
+        weight: 1
+      - path: RigPelvis/RigLLegBack1
+        weight: 1
+      - path: RigPelvis/RigLLegBack1/RigLLegBack2
+        weight: 1
+      - path: RigPelvis/RigLLegBack1/RigLLegBack2/RigLLegBackAnkle
+        weight: 1
+      - path: RigPelvis/RigLLegBack1/RigLLegBack2/RigLLegBackAnkle/RigLLegBackFoot1
+        weight: 1
+      - path: RigPelvis/RigLLegBack1/RigLLegBack2/RigLLegBackAnkle/RigLLegBackFoot1/RigLLegBackFoot2
+        weight: 1
+      - path: RigPelvis/RigRLegBack1
+        weight: 1
+      - path: RigPelvis/RigRLegBack1/RigRLegBack2
+        weight: 1
+      - path: RigPelvis/RigRLegBack1/RigRLegBack2/RigRLegBackAnkle
+        weight: 1
+      - path: RigPelvis/RigRLegBack1/RigRLegBack2/RigRLegBackAnkle/RigRLegBackFoot1
+        weight: 1
+      - path: RigPelvis/RigRLegBack1/RigRLegBack2/RigRLegBackAnkle/RigRLegBackFoot1/RigRLegBackFoot2
+        weight: 1
+      - path: RigPelvis/RigSpine1
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigLLegFront1
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigLLegFront1/RigLLegFront2
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigLLegFront1/RigLLegFront2/RigLLegFrontAnkle
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigLLegFront1/RigLLegFront2/RigLLegFrontAnkle/RigLLegFrontFoot1
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigLLegFront1/RigLLegFront2/RigLLegFrontAnkle/RigLLegFrontFoot1/RigLLegFrontFoot2
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigNeck1
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigNeck1/RigNeck2
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigNeck1/RigNeck2/RigHead
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigNeck1/RigNeck2/RigHead/RigJawDown
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigNeck1/RigNeck2/RigHead/RigJawUp
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigRLegFront1
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigRLegFront1/RigRLegFront2
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigRLegFront1/RigRLegFront2/RigRLegFrontAnkle
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigRLegFront1/RigRLegFront2/RigRLegFrontAnkle/RigRLegFrontFoot1
+        weight: 1
+      - path: RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigSpine4/RigSpine5/RigRibcage/RigRLegFront1/RigRLegFront2/RigRLegFrontAnkle/RigRLegFrontFoot1/RigRLegFrontFoot2
+        weight: 1
+      - path: RigPelvis/RigTailCenter1
+        weight: 1
+      - path: RigPelvis/RigTailCenter1/RigTailCenter2
+        weight: 1
+      - path: RigPelvis/RigTailCenter1/RigTailCenter2/RigTailCenter3
+        weight: 1
+      - path: RigPelvis/RigTailCenter1/RigTailCenter2/RigTailCenter3/RigTailCenter4
+        weight: 1
+      - path: RigPelvis/RigTailCenter1/RigTailCenter2/RigTailCenter3/RigTailCenter4/RigTailCenter5
+        weight: 1
+      - path: RigPelvis/RigTailCenter1/RigTailCenter2/RigTailCenter3/RigTailCenter4/RigTailCenter5/RigTailCenter6
+        weight: 1
+      - path: RigPelvis/RigTailCenter1/RigTailCenter2/RigTailCenter3/RigTailCenter4/RigTailCenter5/RigTailCenter6/RigTailCenter7
+        weight: 1
+      - path: RigPelvis/RigTailLeft1
+        weight: 1
+      - path: RigPelvis/RigTailLeft1/RigTailLeft2
+        weight: 1
+      - path: RigPelvis/RigTailLeft1/RigTailLeft2/RigTailLeft3
+        weight: 1
+      - path: RigPelvis/RigTailLeft1/RigTailLeft2/RigTailLeft3/RigTailLeft4
+        weight: 1
+      - path: RigPelvis/RigTailLeft1/RigTailLeft2/RigTailLeft3/RigTailLeft4/RigTailLeft5
+        weight: 1
+      - path: RigPelvis/RigTailLeft1/RigTailLeft2/RigTailLeft3/RigTailLeft4/RigTailLeft5/RigTailLeft6
+        weight: 1
+      - path: RigPelvis/RigTailLeft1/RigTailLeft2/RigTailLeft3/RigTailLeft4/RigTailLeft5/RigTailLeft6/RigTailLeft7
+        weight: 1
+      - path: RigPelvis/RigTailRight1
+        weight: 1
+      - path: RigPelvis/RigTailRight1/RigTailRight2
+        weight: 1
+      - path: RigPelvis/RigTailRight1/RigTailRight2/RigTailRight3
+        weight: 1
+      - path: RigPelvis/RigTailRight1/RigTailRight2/RigTailRight3/RigTailRight4
+        weight: 1
+      - path: RigPelvis/RigTailRight1/RigTailRight2/RigTailRight3/RigTailRight4/RigTailRight5
+        weight: 1
+      - path: RigPelvis/RigTailRight1/RigTailRight2/RigTailRight3/RigTailRight4/RigTailRight5/RigTailRight6
+        weight: 1
+      - path: RigPelvis/RigTailRight1/RigTailRight2/RigTailRight3/RigTailRight4/RigTailRight5/RigTailRight6/RigTailRight7
+        weight: 1
+      - path: RigPelvisGizmo
+        weight: 1
+      - path: RigRibcageGizmo
+        weight: 1
+      - path: RigRLegBackPlatform
+        weight: 1
+      - path: RigRLegFrontPlatform
+        weight: 1
+      - path: RigTailCenter1Gizmo
+        weight: 1
+      - path: RigTailCenter2Gizmo
+        weight: 1
+      - path: RigTailCenter3Gizmo
+        weight: 1
+      - path: RigTailCenter4Gizmo
+        weight: 1
+      - path: RigTailCenter5Gizmo
+        weight: 1
+      - path: RigTailCenter6Gizmo
+        weight: 1
+      - path: RigTailCenter7Gizmo
+        weight: 1
+      - path: RigTailLeft1Gizmo
+        weight: 1
+      - path: RigTailLeft2Gizmo
+        weight: 1
+      - path: RigTailLeft3Gizmo
+        weight: 1
+      - path: RigTailLeft4Gizmo
+        weight: 1
+      - path: RigTailLeft5Gizmo
+        weight: 1
+      - path: RigTailLeft6Gizmo
+        weight: 1
+      - path: RigTailLeft7Gizmo
+        weight: 1
+      - path: RigTailRight1Gizmo
+        weight: 1
+      - path: RigTailRight2Gizmo
+        weight: 1
+      - path: RigTailRight3Gizmo
+        weight: 1
+      - path: RigTailRight4Gizmo
+        weight: 1
+      - path: RigTailRight5Gizmo
+        weight: 1
+      - path: RigTailRight6Gizmo
+        weight: 1
+      - path: RigTailRight7Gizmo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

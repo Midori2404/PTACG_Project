@@ -1,1 +1,5 @@
-The trailer video and exe file can be downloaded in the releases tab https://github.com/Midori2404/PTACG_Project/releases/tag/game 
+**Trailer** <br>
+https://github.com/Midori2404/PTACG_Project/releases/download/game/Trailer.mp4
+
+**Game File** <br>
+https://github.com/Midori2404/PTACG_Project/releases/download/game/Shattered_Realms.exe
